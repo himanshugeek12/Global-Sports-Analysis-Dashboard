@@ -4,3 +4,11 @@ The objective of the Global Sports Analysis Dashboard is to analyze sports perfo
 
 ## Dataset used 
 - <a href="https://github.com/himanshugeek12/Global-Sports-Analysis-Dashboard/blob/master/Global_Sports_Analytics_Dataset.xlsx">Dataset</a>
+
+## ❓ Key Questions (KPIs)
+- What is the **total score across all sports**?
+- Which **major sports contribute the highest scores**?
+- Which **minor sports are performing strongly**?
+- How are **targets distributed across countries**?
+- Which **regions have the highest registered players**?
+- Comparison between **National, International, and Both** categories using filters.
