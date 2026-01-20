@@ -30,5 +30,15 @@ The objective of the Global Sports Analysis Dashboard is to analyze sports perfo
 
 ## 📷 **Dashboard Preview:**  ![Global Sports Analysis Dashboard](https://github.com/himanshugeek12/Global-Sports-Analysis-Dashboard/blob/master/Global%20Sports%20Dashboard.png)
 
+## 🔍 Project Insights
+- **Rugby and Cricket** are the top-performing major sports.
+- **Squash and Kho-Kho** lead among minor sports.
+- **Australia and Russia** have the highest target scores.
+- **Central Asia and South America** show the highest player registrations.
+- Several regions show growth potential due to lower participation.
+
+## ✅ Final Conclusion  
+The **Global Sports Analysis Dashboard** provides valuable insights into sports performance and player distribution worldwide. It enables data-driven decisions by identifying high-performing sports, key regions, and strategic areas for improvement, helping organizations enhance global sports development.
+
 
 
