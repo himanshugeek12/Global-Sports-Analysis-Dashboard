@@ -28,7 +28,7 @@ The objective of the Global Sports Analysis Dashboard is to analyze sports perfo
 - Applied slicers for dynamic filtering.
 
 
-📷 **Dashboard Preview:**  ![Global Sports Analysis Dashboard](https://github.com/himanshugeek12/Global-Sports-Analysis-Dashboard/blob/master/Global%20Sports%20Dashboard.png)
+## 📷 **Dashboard Preview:**  ![Global Sports Analysis Dashboard](https://github.com/himanshugeek12/Global-Sports-Analysis-Dashboard/blob/master/Global%20Sports%20Dashboard.png)
 
 
 
