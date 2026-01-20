@@ -16,6 +16,17 @@ The objective of the Global Sports Analysis Dashboard is to analyze sports perfo
 -Dashboard Interaction <a href="https://github.com/himanshugeek12/Global-Sports-Analysis Dashboard/blob/master/Global%20Sports%20Dashboard.png">View Dashboard</a>
 
 
+## 🔄 Process
+- Verified data for missing values and inconsistencies.
+- Cleaned and formatted data for analysis.
+- Created calculated fields for total scores and player counts.
+- Built interactive visuals for:
+  - Total score by major sports
+  - Total score by minor sports
+  - Country-wise target distribution
+  - Registered players by regions
+  - Applied slicers for dynamic filtering.
+
 
 📷 **Dashboard Preview:**  ![Global Sports Analysis Dashboard](https://github.com/himanshugeek12/Global-Sports-Analysis-Dashboard/blob/master/Global%20Sports%20Dashboard.png)
 
