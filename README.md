@@ -12,3 +12,10 @@ The objective of the Global Sports Analysis Dashboard is to analyze sports perfo
 - How are **targets distributed across countries**?
 - Which **regions have the highest registered players**?
 - Comparison between **National, International, and Both** categories using filters.
+
+  
+📷 **Dashboard Preview:**  
+-![Global Sports Analysis Dashboard](https://github.com/himanshugeek12/Global-Sports-Analysis-Dashboard/blob/master/Global%20Sports%20Dashboard.png)
+
+
+https://github.com/himanshugeek12/Global-Sports-Analysis-Dashboard/blob/master/Global%20Sports%20Dashboard.png
