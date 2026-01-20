@@ -25,7 +25,7 @@ The objective of the Global Sports Analysis Dashboard is to analyze sports perfo
   - Total score by minor sports
   - Country-wise target distribution
   - Registered players by regions
-  - Applied slicers for dynamic filtering.
+- Applied slicers for dynamic filtering.
 
 
 📷 **Dashboard Preview:**  ![Global Sports Analysis Dashboard](https://github.com/himanshugeek12/Global-Sports-Analysis-Dashboard/blob/master/Global%20Sports%20Dashboard.png)
